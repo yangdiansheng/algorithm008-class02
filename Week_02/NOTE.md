@@ -4,13 +4,7 @@
 **Hash表**
 1. Hash函数
 2. Hash冲突
->链表法
-
-
-再Hash
-
-
-线性探测
+>链表法（HashMap） ,再Hash，线性探测（ThreadLocal）
 
 
 3. 扩容
